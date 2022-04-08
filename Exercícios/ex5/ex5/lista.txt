@@ -1,0 +1,6 @@
+Joca Gaio;20/9/1987;Rua da direita n 2;25023;Pintura;
+Ana Rola;4/2/1990;Rua da esquerda n 3;25024;Comercial;
+Diogo M;20/11/2001;Rua;12345;info;
+5;info;
+ormatica;
+ormatica;
